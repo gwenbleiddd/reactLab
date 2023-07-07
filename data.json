@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Back to the Future",
+    "year": "1985",
+    "rating": "8.5",
+    "description":
+      "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his clos,e friend, the maverick scientist Doc Brown.",
+    "image": "/images/back-to-the-future.jpg",
+    "total_likes": "10829",
+    "liked": "true"
+  },
+  {
+    "title": "Primer",
+    "year": "2004",
+    "rating": "6.8",
+    "description":
+      "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.",
+    "image": "/images/primer.jpg",
+    "total_likes": "5040",
+    "liked": "false"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "rating": "8.8",
+    "description":
+      "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "image": "/images/the-lord-of-the-rings.jpg",
+    "total_likes": "525675",
+    "liked": "true"
+  },
+  {
+    "title": "Time Bandits",
+    "year":" 1981",
+    "rating": "6.9",
+    "description":
+      "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
+    "image": "/images/time-bandits.jpg",
+    "total_likes":" 7719",
+    "liked": "false"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "rating": "9",
+    "description":
+      "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "image": "/images/the-dark-knight.jpg",
+    "total_likes": "23678",
+    "liked": "false"
+  },
+  {
+    "title": "Bill and Ted's Excellent Adventure",
+    "year": "1989",
+    "rating":" 6.9",
+    "description":
+      "Two rock-'n-rolling teens, on the verge of failing their class, are approached by a time machine that helps them make the ultimate history presentation.",
+    "image": "/images/bill-and-teds-excellent-adventures.jpg",
+    "total_likes": "15123",
+    "liked": "false"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "year": "2005",
+    "rating": "7.8",
+    "description":"Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?",
+    "image": "/images/pride-and-prejudice.jpg",
+    "total_likes": "98541",
+    "liked": "true"
+  },
+  {
+    "title": "Black Hawk Down",
+    "year": "2001",
+    "rating": "7.7",
+    "description":
+      "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis.",
+    "image": "/images/black-hawk-down.jpg",
+    "total_likes": "19881",
+    "liked": "false"
+  },
+  {
+    "title": "The Greatest Showman",
+    "year":" 2017",
+    "rating": "7.5",
+    "description":
+      "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+    "image": "/images/The-Greatest_Showman.jpg",
+    "total_likes": "20100",
+    "liked": "true"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "year": "2009",
+    "rating": "7.1",
+    "description":
+      "A Chicago librarian has a gene that causes him to involuntarily time travel, creating complications in his marriage.",
+    "image": "/images/the-time-travellers-wife.jpg",
+    "total_likes": "8915",
+    "liked": "false"
+  }
+]
