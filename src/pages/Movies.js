@@ -48,20 +48,26 @@ const sortChooser = (type) =>{
 
 
  //console.log(select)
- 
+
   return (
     <div className='movies'>
-         <h3>Movies</h3>
-      <div className='text1'>
-         <h5>Sort</h5>
-      </div>
+         
+      
       <div className='selector'>
+          <div className='text1'>
+              <h5>Sort</h5>
+          </div>
+          <div className='select'>
           <select onChange={(e)=>setSelected(e.target.value)}>
             <option unselectable=''>Choose order</option>
-            <option>Title</option>
-            <option>Rating</option>
-            <option>Year</option>
+            <option title='A-Z'>Title</option>
+            <option title='Hi-Lo'>Rating</option>
+            <option title='New-Old'>Year</option>
           </select>
+          
+          </div>
+          
+          
       </div>
       
       <br></br><br></br>
