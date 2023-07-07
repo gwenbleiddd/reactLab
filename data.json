@@ -5,7 +5,7 @@
     "rating": "8.5",
     "description":
       "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his clos,e friend, the maverick scientist Doc Brown.",
-    "image": "/images/back-to-the-future.jpg",
+    "image": "./images/back-to-the-future.jpg",
     "total_likes": "10829",
     "liked": "true"
   },
@@ -15,7 +15,7 @@
     "rating": "6.8",
     "description":
       "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.",
-    "image": "/images/primer.jpg",
+    "image": "./images/primer.jpg",
     "total_likes": "5040",
     "liked": "false"
   },
