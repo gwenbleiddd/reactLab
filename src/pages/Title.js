@@ -20,7 +20,7 @@ const onClick = () =>{
     }
 }
 
-console.log('after'+totalLikes+liked)
+
   return (
     <div className="title">
        {movieData.map((val,i)=>{
